@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#ffdcdf"/>
+      <stop offset="100%" style="stop-color:#ffe8ea"/>
+    </linearGradient>
+  </defs>
+  <rect width="400" height="400" fill="url(#bg)"/>
+  <text x="200" y="180" text-anchor="middle" font-family="sans-serif" font-size="80" fill="#bd4057">🍔</text>
+  <text x="200" y="240" text-anchor="middle" font-family="sans-serif" font-size="16" fill="#796b70" font-weight="600">A-BITE</text>
+  <text x="200" y="265" text-anchor="middle" font-family="sans-serif" font-size="12" fill="#796b70">Fast Delivery, Every Bite</text>
+</svg>
